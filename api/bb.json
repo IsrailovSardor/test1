@@ -1,0 +1,20 @@
+{
+  "users": [],
+  "todos": [
+    {
+      "task": [
+        {
+          "task" : "вынести мусор",
+          "isCompleted": 0
+        },
+        {
+          "task" : "опубликовать дз",
+          "isCompleted": 1
+        }
+      ],
+      "id": 1,
+      "id_user" : 1
+    }
+    
+  ]
+}
